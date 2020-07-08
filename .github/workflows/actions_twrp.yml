@@ -93,5 +93,5 @@ jobs:
       uses: actions/upload-artifact@master
       with: 
        name: TWRP
-       path: workspace/out/target/product/kiwi/recovery.img
+       path: workspace/out/target/product/pd1510/recovery.img
        
