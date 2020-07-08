@@ -92,7 +92,7 @@ jobs:
         tree device
         export ALLOW_MISSING_DEPENDENCIES=true
         source build/envsetup.sh
-        lunch omni_${{ steps.var.outputs.device_code }}-eng 
+        lunch omni_pd1510-eng 
         mka recoveryimage -j$(nproc --all)
     - name: Upload TWRP
       uses: softprops/action-gh-release@v1
