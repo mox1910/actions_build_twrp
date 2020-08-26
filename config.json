@@ -4,13 +4,13 @@
   "git_username": "mox1910",
   "git_email": "1937047112@qq.com",
   "use_own_dt": true,
-  "dt_url": "mox1910/android_device_vivo_pd1510_twrp",
-  "dt_branch": "android-9.0",
+  "dt_url": "sheikhshahnawaz41299/android_device_vivo_pd1510-twrp",
+  "dt_branch": "twrp_9.0",
   "dt_remote": "github",
   "dt_path": "device/vivo/pd1510",
   "device_code": "pd1510",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "twrp_9.0"
 }
