@@ -11,6 +11,5 @@
   "device_code": "pd1510",
   "fix_product": true,
   "fix_misscom": true,
-  "fix_busybox": false,
-  "fix_branch": "twrp_9.0"
+  "fix_busybox": false
 }
